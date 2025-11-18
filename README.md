@@ -1,6 +1,6 @@
 # NAME: TEJASHREE SS
 # REG NO: 212224100058
-# EXP NO 8: Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
+# EXP NO 6: Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
